@@ -1,4 +1,4 @@
-FROM pinto0309/raspios_lite_armhf:2022-02-10_bullseye
+FROM pinto0309/raspios_oldstable_armhf:2022-01-28_buster
 
 ENV DEBIAN_FRONTEND=noninteractive
 ENV NO_CUDA=1
